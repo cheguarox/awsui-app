@@ -1,0 +1,51 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Victor Hugo",
+      "country": "France"
+    },
+    {
+      "name": "Ernest Hemingway",
+      "country": "United States",
+      "id": 2
+    },
+    {
+      "name": "Oscar Wilde",
+      "country": "Ireland",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "Les misérables",
+      "year": 1862
+    },
+    {
+      "id": 2,
+      "authorId": 2,
+      "title": "The old man and the sea",
+      "year": 1952
+    },
+    {
+      "authorId": 2,
+      "title": "For whom the bell tolls",
+      "year": "1940",
+      "id": 3
+    },
+    {
+      "authorId": 2,
+      "title": "To have and have not",
+      "year": "1937",
+      "id": 4
+    },
+    {
+      "authorId": 1,
+      "title": "The hunchback of Notre Dame",
+      "year": "1831",
+      "id": 5
+    }
+  ]
+}
